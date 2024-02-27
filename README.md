@@ -23,8 +23,12 @@ NetFUNNEL-Agent/
     │   ├── android/
     │   ├── ios/
     │   └── web/
-    └── dynamic/
-        ├── server/
-        │   └── java/
-        └── web/
+    ├── dynamic/
+    │   ├── server/
+    │   │   └── java/
+    │   └── web/
+    └── poc/
+        ├── android/ {poc 폴더}
+        ├── ios/ {poc 폴더}
+        └── web/ {poc 폴더}
 ```
